@@ -207,9 +207,8 @@ footer .container .content div:not(.clear) img { width: 40px; height: 40px; }
   position: relative;
   display: inline;
   display: -webkit-inline-box;
-  display: -moz-inline-box;
-}
 
+}
 
 .cta-buttons button {
     padding: 20px 0px;
