@@ -238,3 +238,12 @@ footer .container .content div:not(.clear) img { width: 40px; height: 40px; }
   background: white;
   color: black;
 }
+
+.link-not-working {
+  color: white;
+  text-align: center;
+  margin-left: -30px;
+  font-size: .8em;
+  margin-top: 6px;
+  font-weight: 700;
+}
